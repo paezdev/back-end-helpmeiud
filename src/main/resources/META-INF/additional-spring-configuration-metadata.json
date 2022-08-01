@@ -1,0 +1,42 @@
+{"properties": [
+  {
+    "name": "security.jwt.client-service",
+    "type": "java.lang.String",
+    "description": "A description for 'security.jwt.client-service'"
+  },
+  {
+    "name": "security.jwt.password-service",
+    "type": "java.lang.String",
+    "description": "A description for 'security.jwt.password-service'"
+  },
+  {
+    "name": "security.jwt.scope-read",
+    "type": "java.lang.String",
+    "description": "A description for 'security.jwt.scope-read'"
+  },
+  {
+    "name": "security.jwt.grant-password",
+    "type": "java.lang.String",
+    "description": "A description for 'security.jwt.grant-password'"
+  },
+  {
+    "name": "security.jwt.scope-write",
+    "type": "java.lang.String",
+    "description": "A description for 'security.jwt.scope-write'"
+  },
+  {
+    "name": "security.jwt.grant-refresh",
+    "type": "java.lang.String",
+    "description": "A description for 'security.jwt.grant-refresh'"
+  },
+  {
+    "name": "security.jwt.token-validity-seconds",
+    "type": "java.lang.String",
+    "description": "A description for 'security.jwt.token-validity-seconds'"
+  },
+  {
+    "name": "security.jwt.refresh-validity-seconds",
+    "type": "java.lang.String",
+    "description": "A description for 'security.jwt.refresh-validity-seconds'"
+  }
+]}
